@@ -99,7 +99,7 @@ https://github.com/Purple-Jack/tech-stuff/blob/main/Virtualization.md#virtualiza
 
 ## Download YouTube Videos easily
 
-https://github.com/Purple-Jack/tech-stuff/blob/main/YT%20DL%20DLP.md#yt-dlp
+https://github.com/Purple-Jack/tech-stuff/blob/main/YT%20DL%20DLP.md#yt-dlp 
 
 ## Convert Videos and Audio formats and more
 
